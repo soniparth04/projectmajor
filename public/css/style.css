@@ -13,7 +13,9 @@ body {
     height: 5rem;
     background-color: white;
 }
-
+.navcol {
+    background-color: white;
+}
 .fa-compass {
     color: #fe424d;
     font-size: 2rem;
